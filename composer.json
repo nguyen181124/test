@@ -1,0 +1,15 @@
+{
+    "name": "nguyen/mysql_package",
+    "autoload": {
+        "psr-4": {
+            "Nguyen\\MysqlPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nguyen181124",
+            "email": "nguyen181124@gmail.com"
+        }
+    ],
+    "require": {}
+}
